@@ -1,0 +1,6 @@
+user:
+  role: Admin
+  name: Rinat
+
+welcome:
+  message: Welcome to the Rin Spring Cloud Config managed application!
